@@ -19,4 +19,5 @@ pascals_triangle = [
 # Add a few layers, just to check.
 for _ in range(5):
     add_layer(pascals_triangle)
+    
 print(pascals_triangle)
